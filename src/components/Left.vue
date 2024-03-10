@@ -65,8 +65,13 @@
       <div>
         <button @click="mockMess('加油鸭')">加油鸭</button>
         <button @click="mockMess('爱你哟')">爱你哟</button>
+<<<<<<< Updated upstream
         <button @click="mockMess('小星星')">小星星</button>
          <button @click="mockMess('抖音')">抖音</button>
+=======
+        <button @click="mockMess('抖音')">抖音</button>
+        <button @click="mockMess('小心心')">小心心</button>
+>>>>>>> Stashed changes
         <button @click="mockMess('棒棒糖')">棒棒糖</button>
       </div>
     </div>
